@@ -1,0 +1,16 @@
+C:\Users\Malya\Documents\Revature\PO\PoCodeChallenge1\bin\Debug\net5.0\PoCodeChallenge1.exe
+C:\Users\Malya\Documents\Revature\PO\PoCodeChallenge1\bin\Debug\net5.0\PoCodeChallenge1.deps.json
+C:\Users\Malya\Documents\Revature\PO\PoCodeChallenge1\bin\Debug\net5.0\PoCodeChallenge1.runtimeconfig.json
+C:\Users\Malya\Documents\Revature\PO\PoCodeChallenge1\bin\Debug\net5.0\PoCodeChallenge1.runtimeconfig.dev.json
+C:\Users\Malya\Documents\Revature\PO\PoCodeChallenge1\bin\Debug\net5.0\PoCodeChallenge1.dll
+C:\Users\Malya\Documents\Revature\PO\PoCodeChallenge1\bin\Debug\net5.0\ref\PoCodeChallenge1.dll
+C:\Users\Malya\Documents\Revature\PO\PoCodeChallenge1\bin\Debug\net5.0\PoCodeChallenge1.pdb
+C:\Users\Malya\Documents\Revature\PO\PoCodeChallenge1\obj\Debug\net5.0\PoCodeChallenge1.csproj.AssemblyReference.cache
+C:\Users\Malya\Documents\Revature\PO\PoCodeChallenge1\obj\Debug\net5.0\PoCodeChallenge1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Malya\Documents\Revature\PO\PoCodeChallenge1\obj\Debug\net5.0\PoCodeChallenge1.AssemblyInfoInputs.cache
+C:\Users\Malya\Documents\Revature\PO\PoCodeChallenge1\obj\Debug\net5.0\PoCodeChallenge1.AssemblyInfo.cs
+C:\Users\Malya\Documents\Revature\PO\PoCodeChallenge1\obj\Debug\net5.0\PoCodeChallenge1.csproj.CoreCompileInputs.cache
+C:\Users\Malya\Documents\Revature\PO\PoCodeChallenge1\obj\Debug\net5.0\PoCodeChallenge1.dll
+C:\Users\Malya\Documents\Revature\PO\PoCodeChallenge1\obj\Debug\net5.0\ref\PoCodeChallenge1.dll
+C:\Users\Malya\Documents\Revature\PO\PoCodeChallenge1\obj\Debug\net5.0\PoCodeChallenge1.pdb
+C:\Users\Malya\Documents\Revature\PO\PoCodeChallenge1\obj\Debug\net5.0\PoCodeChallenge1.genruntimeconfig.cache

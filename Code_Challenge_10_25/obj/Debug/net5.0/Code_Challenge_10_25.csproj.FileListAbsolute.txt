@@ -1,0 +1,16 @@
+C:\Users\Malya\Documents\Revature\PO\Code_Challenge_10_25\bin\Debug\net5.0\Code_Challenge_10_25.exe
+C:\Users\Malya\Documents\Revature\PO\Code_Challenge_10_25\bin\Debug\net5.0\Code_Challenge_10_25.deps.json
+C:\Users\Malya\Documents\Revature\PO\Code_Challenge_10_25\bin\Debug\net5.0\Code_Challenge_10_25.runtimeconfig.json
+C:\Users\Malya\Documents\Revature\PO\Code_Challenge_10_25\bin\Debug\net5.0\Code_Challenge_10_25.runtimeconfig.dev.json
+C:\Users\Malya\Documents\Revature\PO\Code_Challenge_10_25\bin\Debug\net5.0\Code_Challenge_10_25.dll
+C:\Users\Malya\Documents\Revature\PO\Code_Challenge_10_25\bin\Debug\net5.0\ref\Code_Challenge_10_25.dll
+C:\Users\Malya\Documents\Revature\PO\Code_Challenge_10_25\bin\Debug\net5.0\Code_Challenge_10_25.pdb
+C:\Users\Malya\Documents\Revature\PO\Code_Challenge_10_25\obj\Debug\net5.0\Code_Challenge_10_25.csproj.AssemblyReference.cache
+C:\Users\Malya\Documents\Revature\PO\Code_Challenge_10_25\obj\Debug\net5.0\Code_Challenge_10_25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Malya\Documents\Revature\PO\Code_Challenge_10_25\obj\Debug\net5.0\Code_Challenge_10_25.AssemblyInfoInputs.cache
+C:\Users\Malya\Documents\Revature\PO\Code_Challenge_10_25\obj\Debug\net5.0\Code_Challenge_10_25.AssemblyInfo.cs
+C:\Users\Malya\Documents\Revature\PO\Code_Challenge_10_25\obj\Debug\net5.0\Code_Challenge_10_25.csproj.CoreCompileInputs.cache
+C:\Users\Malya\Documents\Revature\PO\Code_Challenge_10_25\obj\Debug\net5.0\Code_Challenge_10_25.dll
+C:\Users\Malya\Documents\Revature\PO\Code_Challenge_10_25\obj\Debug\net5.0\ref\Code_Challenge_10_25.dll
+C:\Users\Malya\Documents\Revature\PO\Code_Challenge_10_25\obj\Debug\net5.0\Code_Challenge_10_25.pdb
+C:\Users\Malya\Documents\Revature\PO\Code_Challenge_10_25\obj\Debug\net5.0\Code_Challenge_10_25.genruntimeconfig.cache
